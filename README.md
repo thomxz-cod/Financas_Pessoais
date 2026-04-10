@@ -9,6 +9,7 @@ O **Financastz** é uma aplicação web voltada para gestão financeira pessoal,
 ## 🌐 Acesse no navegador
 
 [Finanças_Tz](https://financastz.base44.app/)
+<a href="https://financastz.base44.app/" target="_blank">Finanças_Tz</a>
 
 ---
 
