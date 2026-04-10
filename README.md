@@ -6,9 +6,47 @@ O **Financastz** é uma aplicação web voltada para gestão financeira pessoal,
 
 ---
 
-## 🌐 Acesse no navegador
+## 📖 Como usar o Financastz
 
+### 🏁 1. Acessar o sistema
+* Abra o navegador e acesse:
 [Finanças_Tz](https://financastz.base44.app/)
+
+---
+
+### ➕ 2. Registrar uma receita
+- Localize a opção de adicionar receita  
+- Informe o valor e uma descrição (ex: salário, freelance)  
+- Salve para registrar a entrada  
+
+---
+
+### ➖ 3. Registrar uma despesa
+- Selecione a opção de adicionar despesa  
+- Informe o valor, categoria e descrição (ex: alimentação, transporte)  
+- Salve para registrar o gasto  
+
+---
+
+### 📊 4. Visualizar dados financeiros
+- Acompanhe suas receitas e despesas na tela principal  
+- Observe o saldo atualizado automaticamente  
+- Analise seus gastos para entender seus hábitos financeiros  
+
+---
+
+### 🔍 5. Consultar histórico
+- Visualize todas as transações registradas  
+- Utilize isso para acompanhar sua evolução financeira ao longo do tempo  
+
+---
+
+### ⚠️ Dicas de uso
+
+- Registre suas movimentações com frequência para manter os dados precisos  
+- Utilize descrições claras para facilitar a organização  
+- Revise seus gastos regularmente para melhorar seu controle financeiro  
+
 
 ---
 
@@ -52,16 +90,6 @@ Backend / Plataforma:
 - Base44  
 
 ---
-
-## 🧩 Funcionalidades
-
-- Controle de receitas e despesas  
-- Visualização financeira  
-- Organização de dados financeiros  
-- Interface web acessível  
-
----
-
 
 ### ✅ Exemplos de tarefas:
 
