@@ -47,8 +47,13 @@ O **Financastz** é uma aplicação web voltada para gestão financeira pessoal,
 - Utilize descrições claras para facilitar a organização  
 - Revise seus gastos regularmente para melhorar seu controle financeiro  
 
-
 ---
+
+<br>
+<br>
+<br>
+<br>
+
 
 ## 🚀 Como rodar o projeto no vscode
 
